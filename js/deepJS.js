@@ -1,4 +1,4 @@
-console.log("Common errors");
+console.log("Common confusions");
 var x = "5";
 x = x + 1; //51
 
