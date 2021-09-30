@@ -10,4 +10,4 @@ y; //6
 
 //bigint
 var x = 42n;
-typeof x;
+typeof x; //bigint
